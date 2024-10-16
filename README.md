@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=500&height=70&color=F7F7F7&pause=1000&duration=4000&lines=Hi+There!+👋;+I'm+Naufal+Rozan!;" />
 </h1>
 
-<h3 align="center">A Passionate Mobile Developer from Indonesia</h3>
+<h3 align="center">A Passionate Web & Mobile Developer from Indonesia 🇮🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
