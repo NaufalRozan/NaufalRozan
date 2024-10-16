@@ -1,5 +1,9 @@
 [![MasterHead](https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)](https://naufaldev.netlify.app/)
-<h1 align="center">Hi 👋, I'm Naufal Rozan</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=500&height=70&color=F7F7F7&pause=1000&duration=4000&lines=Hi+There!+👋;+I'm+Naufal+Rozan!;" />
+</h1>
+
 <h3 align="center">A Passionate Mobile Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
