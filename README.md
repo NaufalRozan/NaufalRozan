@@ -28,17 +28,19 @@
 ⚡ Fun fact I love solving problems with code!
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/bernopal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naufalrozan" height="30" width="40" />
+<div align="left">
+  <a href="https://linkedin.com/in/naufal-rozan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/naufal-rozan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufal-rozan" height="30" width="40" />
+  <a href="https://twitter.com/bernopal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://instagram.com/naufalrozan__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufalrozan__" height="30" width="40" />
+  <a href="https://instagram.com/naufalrozan__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</p>
+</div>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
