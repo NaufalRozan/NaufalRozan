@@ -20,7 +20,7 @@
 
 🌱 I’m currently learning Mobile App Development
 
-💬 Ask me about Flutter, Dart, Laravel
+💬 Ask me about Flutter, Dart, Laravel, Next.js
 
 📫 How to reach me naufall.rozan@gmail.com
 
